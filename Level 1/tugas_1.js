@@ -1,0 +1,10 @@
+console.log("Muhamad Nahrowi");
+console.log(22);
+console.log("Kp.Empetan, RT/RW.01/04, Ds.Buaran Bambu, Kec.Pakuhaji, Kab.Tangerang, Prov. Banten");
+console.log("Bermain Sepak Bola");
+console.log("Politeknik Negeri Jakarta, D4-Teknik Informatika");
+console.log("Karena Saya merasa ada kepuasan tersendiri ketika membuat program dan memperbaiki sebuah error pada programming, Saya merasa programming adalah passion hidup saya");
+console.log("Saya sudah mempelajari bahasa C++, Python, PHP, Javascript, Java, semua hingga Object Oriented Programming dan membuat project, Saya membuat website, Aplikasi Android, Menyelesaikan belajar di python untuk data science dan Machine Learning");
+console.log("Kesulitan pada saat awal membuat algoritma SJF menggunakan bahasa C++, terjadi error pada XAMPP saat belajar website, dan error pada Android studio");
+console.log("Ingin memperdalam ilmu dan meningkatkan skill Saya dibagian website hingga menjadi full stack web developer");
+console.log("Saya mampu belajar dengan konsisten, memiliki background skill programming, dan sangat tertarik di bidang wesbite");

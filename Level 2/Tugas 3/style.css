@@ -1,0 +1,195 @@
+body{
+    /* ImageBackground */
+    padding: 0px;
+    margin: 0px;
+    background: url(ImageBackground.png);  
+    position: absolute;
+    width: 1280px;
+    height: 853px;
+    /* left: 0px;
+    top: -66px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+        
+}
+
+.container{
+  
+    position: absolute;
+    /* width: 100%;
+    height: 100%; */
+    width: 1280px;
+    height: 853px;
+    padding: 0px;
+    margin: 0px;
+    left: 0px;
+    top: 0px;
+    background-size: cover;
+    background-color: rgba(42, 38, 61, 0.82);
+    background-attachment: fixed;
+    background-position: center;      
+}
+
+.font_1{
+
+    margin: 20px;
+    position: absolute;
+    left: 476px;
+    right: 476px;
+    top: 223px;
+    bottom: 329px;
+
+    font-family: Pacifico;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 84px;
+    text-align: center;
+
+    color: #FFFFFF;
+    height: 168px;
+    width: 328px;
+    left: 476px;
+    top: 223px;
+    border-radius: nullpx;
+
+}
+
+span{
+    color: #FCB371;
+}
+
+.outlinebutton{
+
+
+        /* padding-right: 10px;; */
+        padding-top: 10px;
+        padding-left: 57px;
+        position: absolute;
+        width: 156px;
+        height: 46px;
+        left: 477px;
+        top: 481px;
+
+        border: 2px solid #FCB371;
+        box-sizing: border-box;
+        border-radius: 6px;
+        background-color: Transparent;
+
+        /*  */
+
+         
+        font-family: Pacifico;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 21px;
+        /* identical to box height */
+        
+        display: flex;
+        /* align-items: center; */
+        text-align: center;
+        
+        color: #FCB371;
+    }
+
+.fullbutton{
+        padding-top: 10px;
+        padding-left: 43px;
+        position: absolute;
+        width: 156px;
+        height: 46px;
+        left: 646px;
+        top: 481px;
+        
+        background: #FCB371;
+        border-radius: 6px;
+
+        /*  */
+
+        font-family: Pacifico;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 21px;
+        /* identical to box height */
+        
+        display: flex;
+        /* align-items: center; */
+        text-align: center;
+        
+        color: #FFFFFF;
+}
+
+.easier{
+
+        position: absolute;
+        width: 124px;
+        height: 17px;
+        left: 578px;
+        top: 405px;
+
+        font-family: SF Pro Display;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 17px;
+        /* identical to box height */
+
+        text-align: center;
+
+        color: #FFFFFF;
+}
+
+.IconBali{
+    
+        position: absolute;
+        width: 165px;
+        height: 165px;
+        left: 564px;
+        top: 44px;
+
+        background: url(IconBali.png);
+}
+ a{
+     text-decoration: none;
+     color: #FCB371;
+ }
+
+ /* About Us */
+.about_us{
+        position: absolute;
+        left: 540px;
+        right: 541px;
+        top: 171px;
+        bottom: 465px;
+
+        font-family: Pacifico;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 48px;
+        line-height: 84px;
+        text-align: center;
+
+        color: #FCB371;
+}
+
+.tulisan{
+        position: absolute;
+        width: 768px;
+        height: 190px;
+        left: 256px;
+        top: 301px;
+        
+        font-family: SF Pro Display;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 28px;
+        line-height: 33px;
+        text-align: center;
+        
+        color: #FFFFFF;
+    
+} 
